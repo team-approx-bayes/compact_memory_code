@@ -17,5 +17,5 @@ This is an implemenation for "Compact Memory for Continual Logistic Regression"
 * run_main_splitcifar100.sh                : execute experimentsr for Split-CIFAR-100  
 
 
-* Once you replace generate_setting_splitcifar100 in each main_**.py using another dataset generator in setting_dataset.py, the code can be run and evaluated on other datasets as well.
+Once you replace generate_setting_splitcifar100 in each main_**.py using another dataset generator in setting_dataset.py, the code can be run and evaluated on other datasets as well.
 
