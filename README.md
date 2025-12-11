@@ -9,7 +9,7 @@ This is an implemenation for "Compact Memory for Continual Logistic Regression"
 
 * example_four_moons.ipynb                 : results for four-moon task
 
-* setting_dataset.py                       : train R-FVI with informative priors for classification
+* setting_dataset.py                       : task generators 
 * main_splitcifar100_basereplay_batch.py   : baseline experience replay for Split-CIFAR-100
 * main_splitcifar100_baselambda_batch.py   : baseline K-prior  for Split-CIFAR-100
 * main_splitcifar100_ourem_batch.py        : our method for Split-CIFAR-100 
