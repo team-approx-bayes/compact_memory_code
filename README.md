@@ -22,6 +22,7 @@ Once you replace generate_setting_splitcifar100 in each main_**.py using another
 
 ## Citation
 
+```bibtex
 @inproceedings{jung2025compact,
   title={Compact Memory for Continual Logistic Regression},
   author={Jung, Yohan and Lee, Hyungi and Chen, Wenlong and M{\"o}llenhoff, Thomas and Li, Yingzhen and Lee, Juho and Khan, Mohammad Emtiyaz},
